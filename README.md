@@ -15,14 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ## :wave: Hi, I’m @sunpochin. 
-## :star: I'm a web developer
-
-- 👀 I’m interested in Salsa dancing.
-- 🌱 I’m currently learning VueJS, MongoDB, Express and NodeJS
-- 📫 Reach up to me at sunpochin@gmail.com or on [Linkedin](https://www.linkedin.com/in/sunpochin/)
+- 🌱 I’m currently learning Vue.JS, React.JS
 - 😎 Check out my portfolio [here](https://www.cakeresume.com/sunpochin)
-<!-- - 😎 You should definitely check out my portfolio [here](https://portfolio-guidorial.vercel.app/) 
- -->
 ### Skills
 
 <p align="left">
