@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## :wave: Hi, I’m @sunpochin. 
-- 🌱 I’m currently learning Vue.JS, React.JS
+- 🌱 I’m currently learning Vue.JS
 - 😎 Check out my portfolio [here](https://www.cakeresume.com/sunpochin)
 ### Skills
 
