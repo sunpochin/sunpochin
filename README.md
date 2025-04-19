@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 </p>
 
-## :chart_with_upwards_trend: GitHub Stats
 <!-- 
+## :chart_with_upwards_trend: GitHub Stats
 <p>
 <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=sunpochin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
