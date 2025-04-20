@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## :wave: Hi, I’m @sunpochin. 
-- 🌱 I’m currently doing Vue.JS development.
+- 🌱 I’m currently doing Vue.JS Nuxt.JS development.
 - 😎 Check out my portfolio [here](https://www.cakeresume.com/sunpochin)
 ### Skills
 
