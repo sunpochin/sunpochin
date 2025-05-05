@@ -46,3 +46,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
+
+### Coding stats
+I have been working on **Python**, **Go**, **Kubernetes** and **Terraform** these days. The public repositories are mostly my PhD works in visual simultaneous location and mapping (Visual SLAM) where highly performant real-time programming using GPU acceleration is required (i.e., CUDA/C++).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinglin&layout=compact&langs_count=10&&theme=algolia)
+](https://github.com/anuraghazra/github-readme-stats)
