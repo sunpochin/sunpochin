@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=sunpochin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunpochin&layout=compact&langs_count=10&&theme=algolia)
+](https://github.com/anuraghazra/github-readme-stats)
+
 
  -->
 
